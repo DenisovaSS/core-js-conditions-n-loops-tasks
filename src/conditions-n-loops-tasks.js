@@ -282,7 +282,6 @@ function isContainNumber(num, digit) {
   }
   return result;
 }
-console.log('my next');
 /**
  * Finds the index of an element in an array where the sum of elements to the left equals the sum of elements to the right.
  * If such an index does not return -1.
